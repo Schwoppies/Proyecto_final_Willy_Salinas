@@ -1,0 +1,724 @@
+2026.11.04 21:30:52 INFO  Started: Metals version 1.6.9 in folders '/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final' for client Visual Studio Code 1.145.0.
+2026.11.04 21:30:52 INFO  Memory monitor started
+2026.11.04 21:30:54 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.04 21:30:54 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:31:05 WARN  Could not find semantic tokens for: file:///Users/v1b0y/Downloads/Programacion%20Funcional%20(VS%20Code)/Proyecto%20Final/Main.scala
+2026.11.04 21:31:08 INFO  Running List(/Users/v1b0y/Library/Application Support/Coursier/bin/scala-cli, setup-ide, /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final)
+2026.11.04 21:31:09 INFO  Attempting to connect to the build server...
+2026.11.04 21:31:09 INFO  Running BSP server List(/Users/v1b0y/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.scala-build/ide-launcher-options.json, --envs-file, /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.scala-build/ide-envs.json, /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final)
+2026.11.04 21:31:08 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/bsp.trace.json or /Users/v1b0y/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.11.04 21:31:11 INFO  BSP server: Starting compilation server
+2026.11.04 21:31:15 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:31:15 WARN  Could not find semantic tokens for: file:///Users/v1b0y/Downloads/Programacion%20Funcional%20(VS%20Code)/Proyecto%20Final/Main.scala
+2026.11.04 21:31:26 INFO  time: Connected to build server in 16s
+2026.11.04 21:31:26 INFO  Connected to Build server: scala-cli v1.17.1
+2026.11.04 21:31:30 INFO  Created report: Optional.empty
+2026.11.04 21:31:30 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/bloop/2026-11-04/r_Empty build targets...._21-31-29-966.md")
+2026.11.04 21:31:30 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/bloop/2026-11-04/r_Empty build targets...._21-31-29-966.md")
+2026.11.04 21:31:30 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/bloop/2026-11-04/r_Empty build targets...._21-31-29-966.md")
+2026.11.04 21:31:30 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/bloop/2026-11-04/r_Empty build targets...._21-31-29-966.md")
+2026.11.04 21:31:30 INFO  time: Imported build in 4.03s
+2026.11.04 21:31:30 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:31:30 WARN  Could not find semantic tokens for: file:///Users/v1b0y/Downloads/Programacion%20Funcional%20(VS%20Code)/Proyecto%20Final/Main.scala
+2026.11.04 21:31:32 INFO  compiling proyecto final_41e103cfb2 (2 scala sources)
+2026.11.04 21:31:46 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.04 21:31:48 INFO  time: indexed workspace in 17s
+2026.11.04 21:31:48 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.04 21:31:48 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.04 21:31:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:31:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:31:48 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.04 21:31:48 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.04 21:31:48 WARN  Could not find semantic tokens for: file:///Users/v1b0y/Downloads/Programacion%20Funcional%20(VS%20Code)/Proyecto%20Final/Main.scala
+2026.11.04 21:31:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:32:10 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:32:10 WARN  Could not find semantic tokens for: file:///Users/v1b0y/Downloads/Programacion%20Funcional%20(VS%20Code)/Proyecto%20Final/Main.scala
+2026.11.04 21:41:33 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.04 21:41:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:41:35 WARN  Could not find semantic tokens for: file:///Users/v1b0y/Downloads/Programacion%20Funcional%20(VS%20Code)/Proyecto%20Final/Modelos.scala
+2026.11.04 21:43:57 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:43:57 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:43:58 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 04, 2026 9:43:58 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 24
+2026.11.04 21:43:59 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.04 21:43:59 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:44:07 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.04 21:44:07 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:44:07 WARN  Could not find semantic tokens for: file:///Users/v1b0y/Downloads/Programacion%20Funcional%20(VS%20Code)/Proyecto%20Final/Main.scala
+2026.11.04 21:44:08 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:44:08 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:44:09 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:44:09 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.04 21:44:09 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:44:09 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.04 21:44:11 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:44:11 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:44:15 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:47:35 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:47:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:57:13 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 21:57:30 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:00:34 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:01:13 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:20 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.04 22:02:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:21 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:21 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.04 22:02:21 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:21 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:21 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:24 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:24 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:25 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:25 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:26 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:26 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:26 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:02:26 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.04 22:02:26 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:17:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.04 22:37:36 INFO  Shutting down server
+2026.11.04 22:37:36 INFO  Memory monitor stopped
+2026.11.04 22:37:36 INFO  shutting down Metals
+2026.11.04 22:37:38 INFO  Exiting server
+2026.11.05 08:35:50 INFO  Started: Metals version 1.6.9 in folders '/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final' for client Visual Studio Code 1.145.0.
+2026.11.05 08:35:50 INFO  Memory monitor started
+2026.11.05 08:35:52 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.05 08:35:52 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 8:35:55 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+2026.11.05 08:35:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:55 INFO  Attempting to connect to the build server...
+2026.11.05 08:35:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:55 INFO  Running BSP server List(/Users/v1b0y/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.scala-build/ide-launcher-options.json, --envs-file, /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.scala-build/ide-envs.json, /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final)
+2026.11.05 08:35:56 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/bsp.trace.json or /Users/v1b0y/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.11.05 08:35:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 8:35:56 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 10
+2026.11.05 08:35:56 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:56 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:56 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:56 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 8:35:57 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 14
+2026.11.05 08:35:57 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 8:35:57 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 16
+2026.11.05 08:35:57 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:57 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 8:35:58 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18
+2026.11.05 08:35:57 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:57 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:58 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:58 INFO  BSP server: Starting compilation server
+nov 05, 2026 8:35:59 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 19
+2026.11.05 08:35:58 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:58 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:35:58 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 8:36:00 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 22
+2026.11.05 08:36:00 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 8:36:00 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 25
+2026.11.05 08:36:00 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:36:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:36:28 INFO  time: Connected to build server in 33s
+2026.11.05 08:36:28 INFO  Connected to Build server: scala-cli v1.17.1
+2026.11.05 08:36:29 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/bloop/2026-11-04/r_Empty build targets...._21-31-29-966.md")
+2026.11.05 08:36:29 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/bloop/2026-11-04/r_Empty build targets...._21-31-29-966.md")
+2026.11.05 08:36:29 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/bloop/2026-11-04/r_Empty build targets...._21-31-29-966.md")
+2026.11.05 08:36:29 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/bloop/2026-11-04/r_Empty build targets...._21-31-29-966.md")
+2026.11.05 08:36:29 INFO  time: Imported build in 0.47s
+2026.11.05 08:36:31 INFO  compiling proyecto final_a1ed2d1e96 (2 scala sources)
+2026.11.05 08:36:39 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.05 08:36:41 INFO  time: indexed workspace in 11s
+2026.11.05 08:36:41 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.05 08:36:41 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.05 08:36:41 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.05 08:36:41 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.05 08:36:41 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:36:41 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:36:43 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:36:45 INFO  time: code lens generation in 3.29s
+2026.11.05 08:36:45 INFO  time: code lens generation in 4.27s
+2026.11.05 08:36:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:36:49 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.11.05 08:39:45 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:39:45 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:04 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+nov 05, 2026 8:40:04 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 35
+2026.11.05 08:40:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:08 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:08 INFO  Created report: Optional[file:///Users/v1b0y/Downloads/Programacion%20Funcional%20(VS%20Code)/Proyecto%20Final/Main.scala]
+2026.11.05 08:40:08 INFO  empty definition using pc, found symbol in pc: copy. (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/metals-full/2026-11-05/r_empty-definition_08-40-08-781.md")
+2026.11.05 08:40:10 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:14 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:14 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:14 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:14 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:15 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:15 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:15 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:21 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:22 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:22 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:22 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:22 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:22 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:23 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:23 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:23 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:23 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:25 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:25 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:25 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:25 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:25 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:25 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:25 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:26 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:26 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:27 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:27 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:28 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:28 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:28 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:28 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:28 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:29 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:29 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:29 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:29 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:29 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:30 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:30 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:31 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:31 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:34 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:34 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:34 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:34 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:34 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:36 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:38 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:38 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:39 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:39 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:40 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:40 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:42 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:44 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:44 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:44 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:44 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:44 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:44 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:46 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:46 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:46 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:46 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:46 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:52 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:54 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:40:56 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:42:26 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:42:27 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:42:27 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:10 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:10 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:10 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:10 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:12 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:12 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:12 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:13 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:13 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:13 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:15 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:17 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:17 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:17 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:17 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:30 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:30 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.05 08:54:30 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:30 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:39 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:54:59 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:55:00 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:56:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:56:33 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+nov 05, 2026 8:56:33 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 221
+2026.11.05 08:56:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:56:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:56:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 8:56:43 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.11.05 08:56:43 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 8:56:44 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.11.05 08:56:44 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:28 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:30 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:41 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:44 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:44 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:44 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:46 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:46 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:46 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:51 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:51 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:51 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:51 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:51 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:52 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:52 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:52 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:52 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:52 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:52 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:52 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:53 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:53 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:53 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:53 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:54 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:54 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:54 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:54 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:57 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:57 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:59 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:59 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:57:59 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:00 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:00 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:23 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:23 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:25 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 08:58:26 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 09:08:55 INFO  Shutting down server
+2026.11.05 09:08:55 INFO  Memory monitor stopped
+2026.11.05 09:08:55 INFO  shutting down Metals
+2026.11.05 09:08:55 INFO  Shut down connection with build server.
+2026.11.05 09:08:55 INFO  Exiting server
+2026.11.05 16:55:22 INFO  Started: Metals version 1.6.9 in folders '/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final' for client Visual Studio Code 1.145.0.
+2026.11.05 16:55:22 INFO  Memory monitor started
+2026.11.05 16:55:25 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.05 16:55:27 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:55:31 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:55:31 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:55:31 INFO  Attempting to connect to the build server...
+2026.11.05 16:55:31 INFO  Running BSP server List(/Users/v1b0y/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.scala-build/ide-launcher-options.json, --envs-file, /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.scala-build/ide-envs.json, /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final)
+2026.11.05 16:55:31 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/bsp.trace.json or /Users/v1b0y/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.11.05 16:55:35 INFO  BSP server: Starting compilation server
+2026.11.05 16:55:42 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 4:55:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+nov 05, 2026 4:55:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3
+nov 05, 2026 4:55:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5
+nov 05, 2026 4:55:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+2026.11.05 16:55:42 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 4:55:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9
+2026.11.05 16:55:43 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:55:43 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:55:43 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:55:43 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:55:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 4:55:48 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 14
+2026.11.05 16:55:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:55:52 INFO  time: Connected to build server in 20s
+2026.11.05 16:55:52 INFO  Connected to Build server: scala-cli v1.17.1
+2026.11.05 16:55:52 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/bloop/2026-11-04/r_Empty build targets...._21-31-29-966.md")
+2026.11.05 16:55:52 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/bloop/2026-11-04/r_Empty build targets...._21-31-29-966.md")
+2026.11.05 16:55:52 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/bloop/2026-11-04/r_Empty build targets...._21-31-29-966.md")
+2026.11.05 16:55:52 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/bloop/2026-11-04/r_Empty build targets...._21-31-29-966.md")
+2026.11.05 16:55:52 INFO  time: Imported build in 0.49s
+2026.11.05 16:55:57 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.05 16:55:59 INFO  time: indexed workspace in 6.18s
+2026.11.05 16:55:59 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.05 16:55:59 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.05 16:55:59 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:55:59 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:55:59 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.05 16:55:59 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.05 16:56:00 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:56:00 INFO  time: code lens generation in 1.47s
+2026.11.05 16:56:01 INFO  time: code lens generation in 2.54s
+2026.11.05 16:56:01 INFO  time: code lens generation in 2.54s
+2026.11.05 16:56:27 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:56:28 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:56:29 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.05 16:56:28 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:56:28 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:56:29 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:56:30 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:56:30 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:56:30 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:56:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:56:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:56:34 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:58:44 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:58:50 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.05 16:58:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:58:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 16:58:57 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:00:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:02:44 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:03:12 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:03:12 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:03:38 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:03:38 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.05 17:03:38 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:03:38 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:03:38 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:03:39 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:03:39 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:03:39 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:03:40 INFO  Created report: Optional[file:///Users/v1b0y/Downloads/Programacion%20Funcional%20(VS%20Code)/Proyecto%20Final/Main.scala]
+2026.11.05 17:03:40 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/.metals/.reports/metals-full/2026-11-05/r_empty-definition_17-03-40-579.md")
+2026.11.05 17:04:42 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 5:04:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 68
+2026.11.05 17:04:42 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:44 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:45 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:45 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:45 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:47 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:48 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:49 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:52 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:52 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:52 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:52 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:54 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:54 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:55 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:56 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:58 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:58 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:58 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:58 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:58 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:04:58 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:00 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:00 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:01 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:03 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 05, 2026 5:05:03 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 148
+2026.11.05 17:05:03 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:03 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:03 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:03 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:03 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:03 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:04 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:06 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:07 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:07 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:07 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:07 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:08 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:08 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:09 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:11 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:11 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:11 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:11 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:12 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:12 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:12 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:12 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:12 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:12 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:13 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:12 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:12 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:14 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:14 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:14 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:14 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:14 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:14 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:14 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:14 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:15 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:15 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:15 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:17 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:16 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:17 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:17 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:17 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:17 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:17 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:17 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:17 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:18 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:19 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:20 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:21 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:21 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:21 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:21 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:22 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.05 17:05:22 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:25 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:34 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:35 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:35 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:05:39 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:06:13 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:06:13 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:06:13 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:06:13 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:06:22 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:06:31 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:06:31 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:06:32 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:06:32 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:06:32 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:06:32 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:06:33 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.05 17:06:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:06:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:50 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:51 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:51 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:53 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:53 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:54 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:54 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:56 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:56 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:57 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:57 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:59 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:59 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.05 17:29:59 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:59 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:29:59 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:30:00 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:30:00 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:30:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:30:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:30:02 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:30:03 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:30:05 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:30:09 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:30:09 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:30:09 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:28 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:29 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.05 17:46:28 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:29 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.05 17:46:29 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:30 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:31 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:31 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.05 17:46:31 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:31 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:31 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:31 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:31 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:33 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala
+2026.11.05 17:46:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:33 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:34 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:34 WARN  no build target for: /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala
+2026.11.05 17:46:34 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.05 17:46:34 INFO  no build target found for /Users/v1b0y/Downloads/Programacion Funcional (VS Code)/Proyecto Final/Modelos.scala. Using presentation compiler with project's scala-library version: 3.3.8
